@@ -1,5 +1,5 @@
 {
-  "name": "my-opentui-project",
+  "name": "system-monitor",
   "module": "src/index.tsx",
   "type": "module",
   "private": true,
