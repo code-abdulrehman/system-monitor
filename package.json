@@ -2,7 +2,6 @@
   "name": "system-monitor",
   "module": "src/index.tsx",
   "type": "module",
-  "private": true,
   "scripts": {
     "dev": "bun run --watch src/index.tsx",
     "snake": "bun run src/index.tsx",
